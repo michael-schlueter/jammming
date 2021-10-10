@@ -7,7 +7,7 @@
 - I undertook this project as part of the Codecademy Full-Stack-Engineer curriculum
 - The project was quite extensive and built outside of the Codecademy environment
 - The front-end part of the project was basically given. The challenge was to implement the logic behind the app, especially connecting to the Spotify Web API
-- THe aim of this project was to work with an external API by informing yourself about its inner working by reading its documentation and integrate its logic in your application
+- The aim of this project was to work with an external API by informing yourself about its inner working by reading its documentation and integrate its logic in your application
 
 
 
