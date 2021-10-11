@@ -40,7 +40,7 @@ The dependencies which are necessary to run this app can be found in the package
 npm install
 ```
 in the terminal.
-3. Create a Spotify client ID by registering the app ![here](https://developer.spotify.com/dashboard/)
+3. Create a Spotify client ID by registering the app [here](https://developer.spotify.com/dashboard/)
 4. Enter the client ID in jammming/src/util/Spotify.js
 ```
 const clientId = "YOUR_CLIENT_ID_HERE";
